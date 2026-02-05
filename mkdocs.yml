@@ -4,7 +4,7 @@ site_author: Pharma Net
 site_url: https://dealer.docs.pharmanet.bilsul.com
 
 # repo_url: https://github.com/pharmadotnet/pharmanet-dealer-docs
-# repo_name: pharma-dealer-docs
+# repo_name: pharmanet-dealer-docs
 
 theme:
   name: material
